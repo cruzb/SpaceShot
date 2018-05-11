@@ -1,0 +1,53 @@
+Flamer weapon
+-high rate of fire
+-short range
+
+Tank
+-Slower
+-Higher Health
+-Decreased Firespeed
+
+Fast Turn
+-High turn speed
+-Faster
+-Less Health
+
+High Control
+-Tighter turns
+
+Shotgun
+-low ammo
+-scattershot
+
+Bounceshot
+-Shots bounce off walls
+
+Persistentshot
+-Shots go through multiple targets
+
+Hammerhead
+-No projectiles
+-Moderate Speed
+-Very Fast Boost
+
+Targeting drone
+-Turret fires slow rate high speed aimed shots
+
+LaserCharge
+-Slow firing laser that instantly hits everything in path
+
+Armed
+-Medium Health
+-Rapid machine gun primary
+-Torpedo secondary
+
+Mines
+-Gun + lays mines
+
+Laser
+-Decreased ammo count
+-Ammo recharges over time
+
+Stealth?
+
+Time slow down?

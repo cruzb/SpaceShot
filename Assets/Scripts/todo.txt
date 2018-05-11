@@ -1,0 +1,3 @@
+-Efficiency => gameobject.find over findobjectwithtag
+-better background
+-more ships
